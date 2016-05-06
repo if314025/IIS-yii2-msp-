@@ -3,7 +3,7 @@ return [
     'components' => [
         'db' => [
             'class' => 'yii\db\Connection',
-            'dsn' => 'mysql:Database=acsm_2971d321ce82410;Data Source=ap-cdbr-azure-southeast-b.cloudapp.net;User Id=be5dda8a5e2cf8;Password=3230c131,
+            'dsn' => 'mysql:host=localhost;dbname=inventory,
             'username' => 'root',
             'password' => '',
             'charset' => 'utf8',
