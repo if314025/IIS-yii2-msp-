@@ -3,9 +3,9 @@ return [
     'components' => [
         'db' => [
             'class' => 'yii\db\Connection',
-            'dsn' => 'mysql:host=localhost;dbname=inventory',
-            'username' => 'root',
-            'password' => '',
+            'dsn' => 'mysql:host=ap-cdbr-azure-southeast-b.cloudapp.net;dbname=inventory',
+            'username' => 'be5dda8a5e2cf8',
+            'password' => '3230c131',
             'charset' => 'utf8',
         ],
         'mailer' => [
