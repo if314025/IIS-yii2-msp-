@@ -3,7 +3,7 @@ Information System Inventory
 
 using Yii2 Advanced Template
 
-Builded By Okta Pratama Nainggolan
+Developed By Okta Pratama Nainggolan
 
 DIRECTORY STRUCTURE
 -------------------
